@@ -10,7 +10,7 @@ public class FPShooter : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(1))
         {
             GameObject instance = Instantiate(projectile, spawnPoint.position, Quaternion.identity);
             instance.transform.localEulerAngles = transform.eulerAngles;

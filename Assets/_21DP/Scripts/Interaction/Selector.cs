@@ -6,8 +6,10 @@ public class Selector : MonoBehaviour
 {
     private bool enableInteraction = false;
     public GameObject interactionMessage;
-
     bool firstClickDone = false;
+
+    Interactable lastInteractedObject;
+    Interactable interactable;
 
     private void Update()
     {
@@ -18,7 +20,8 @@ public class Selector : MonoBehaviour
                 firstClickDone = true;
                 return;
             }
-            if (!enableInteraction)
+
+            if (!enableInteraction && interactable)
                 enableInteraction = true;
         }
     }
@@ -28,25 +31,41 @@ public class Selector : MonoBehaviour
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
 
-        if(Physics.Raycast(ray, out hit, 100))
+        if (Physics.Raycast(ray, out hit, 10))
         {
-            var interactable = hit.transform.gameObject.GetComponent<Interactable>();
-            
-            if (interactable == null)
+            interactable = hit.transform.gameObject.GetComponent<Interactable>();
+
+            if (interactable)
             {
-                interactionMessage.SetActive(false);
-                return;
+                lastInteractedObject = interactable;
+                interactionMessage.SetActive(true);
+                interactable.OnLookingAt(true);
+
+                if (!enableInteraction) return;
+
+                interactable.OnInteraction();
             }
 
-            interactionMessage.SetActive(true);
-            interactable.OnLookingAt(true);
-
-            if (!enableInteraction) return;
-
-            enableInteraction = false;
-            interactable.OnInteraction();
+            else
+            {
+                interactionMessage.SetActive(false);
+                if (lastInteractedObject != null)
+                {
+                    lastInteractedObject.OnLookingAt(false);
+                    lastInteractedObject = null;
+                    interactable = null;
+                }
+            }
         }
 
-        interactionMessage.SetActive(false);
+        else
+        {
+            interactionMessage.SetActive(false);
+            if (interactable != null)
+            {
+                interactable.OnLookingAt(false);
+                interactable = null;
+            }
+        }
     }
 }

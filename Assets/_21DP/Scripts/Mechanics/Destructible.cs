@@ -17,6 +17,9 @@ public class Destructible : MonoBehaviour
     void TakeDamage(float damage)
     {
         resitance -= damage;
+
+        MemeManager.EnableMeme();
+
         if (resitance <= 0)
         {
             GetComponent<Dropper>().Drop(transform.position);

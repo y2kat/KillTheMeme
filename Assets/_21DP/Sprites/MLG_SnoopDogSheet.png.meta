@@ -1,0 +1,1446 @@
+fileFormatVersion: 2
+guid: 0ce42311dacc7c741960717706dddb15
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3498
+        width: 120
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3193c6097f8a84d9e2ffa913254ac8
+      internalID: -1201988015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3498
+        width: 120
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080dbfb253aab74e85f04c260010fea
+      internalID: 1218227530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3498
+        width: 118
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0afa3cad3261514caa316ec00e36410
+      internalID: -1890646136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 3498
+        width: 116
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed0a5385e86ba043aa15cbd8de5cd1f
+      internalID: -619948749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3498
+        width: 114
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3216567cf82e93468382fa93b959228
+      internalID: 826126647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3180
+        width: 113
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b951911c715105e4d8c138bf6ca2ee1d
+      internalID: -1384319321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3180
+        width: 113
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34707e7d2616791428ba2ed80d3f46ae
+      internalID: 167847863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3180
+        width: 112
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e6fbf02fe68c418475b6f86752d6c
+      internalID: 147470523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 3180
+        width: 110
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf33f4e70d23814f9b9d47bb7ccc3bb
+      internalID: 1706560295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3180
+        width: 118
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc1307d1bb9b247925787dfcbe4f5b
+      internalID: -89163695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2862
+        width: 123
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f191e1877faae84abdb03c38fc4558d
+      internalID: -1285217764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2862
+        width: 126
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29927f4f6891feb49a58fd110fa0eec6
+      internalID: -1806869727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2862
+        width: 126
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4236e0fbdaa44baa2f6678ab1ba3f
+      internalID: -1564154451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2862
+        width: 122
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45a79d20d6bd744b495cfef1718395
+      internalID: -533034866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2862
+        width: 114
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326be57e93a7ab4c89732f91fe43f85
+      internalID: 2078216018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2544
+        width: 115
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f34d83c23219bf48a7403f3b73d9197
+      internalID: 1830465550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2544
+        width: 117
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7232147588c29694a9069811cd1d711f
+      internalID: -1267292235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2544
+        width: 118
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b7e9d734b63e94fa95af5f788bd4a3
+      internalID: -1570910831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2544
+        width: 121
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62004628ba8e681458fdb2d8f80d34b8
+      internalID: 953867835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2544
+        width: 122
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3acb3c53a9b7d4ca50c65375fdc9ca
+      internalID: 184623148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2226
+        width: 121
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3b53248c62c74c87e66c5a0d67d74
+      internalID: -2118675335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2226
+        width: 123
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9886952bb789647913ca533125127c
+      internalID: 1494197426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2226
+        width: 124
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4918804c926437e499701e41766ee28d
+      internalID: 2045930487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_23
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2226
+        width: 125
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdbe259af2036545a1b5a9130d8104f
+      internalID: -2055759356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_24
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2226
+        width: 128
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93680ca8572df264da4594ab0852f957
+      internalID: 726527065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1908
+        width: 129
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7b953943e9b694ab4018e8b08ec5b5
+      internalID: 281815021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1908
+        width: 131
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b8e816290a3d84fbe41746763e5e61
+      internalID: -843444450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1908
+        width: 133
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0cdc855f9d32a47a4d3cacfb299fdc
+      internalID: -604971515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_28
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1908
+        width: 136
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e447fd5e694f6ad4eb6e07dea8482bca
+      internalID: -697514164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_29
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1908
+        width: 138
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b6c88cf351e54f833d71f26e7a2f2
+      internalID: -959618378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1590
+        width: 136
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aedc6a4d6190074bba666530e411631
+      internalID: -1416331739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1590
+        width: 133
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c5fe9acc34d54e8d3b3dd60395ac1
+      internalID: 1558016601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1590
+        width: 131
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941ff8b2b2bb31540a08234c66ad0949
+      internalID: 959952776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_33
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1590
+        width: 129
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9865289c3a4cf7a47bd230ec84842eed
+      internalID: -1997635939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_34
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1590
+        width: 128
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82802f8b9504ca1488fd99361b8e1da6
+      internalID: -1084134368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1272
+        width: 125
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89a8532328e6c479c9092d14f0f15b
+      internalID: -1429514443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1272
+        width: 124
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f28decdc7c6d4ab171bf5d4453e59
+      internalID: 604059451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1272
+        width: 123
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7036ce878621c429e3f9bcf5cad13a
+      internalID: -833245644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_38
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1272
+        width: 121
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b406469d4c6f4f908464eef88e8a2
+      internalID: 1297732789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_39
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1272
+        width: 122
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a00c988526a74cbcce3ceae27385e
+      internalID: 184814166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 954
+        width: 121
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073bfe6a9f0f4c249b1b0648f1990ea4
+      internalID: 1114125315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 954
+        width: 118
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09837e743bf119347919f6b29aed3d6f
+      internalID: 1710250745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 954
+        width: 117
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d88eb3db37b14295bc983b5c04be8
+      internalID: -1169210786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_43
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 954
+        width: 115
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041bb65c07768c45a194378c49e6eba
+      internalID: -688157035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 954
+        width: 114
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fa9adf7b97c5428813058e92bc0d6
+      internalID: 1859340801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 636
+        width: 122
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df691d6156c8a24f87d121be7949293
+      internalID: 980170953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 636
+        width: 126
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec97e142446fe40a9e929c09d731e2
+      internalID: 1171768948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 636
+        width: 126
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b76e51484c43140a65878688c7aabb
+      internalID: -195582170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 636
+        width: 123
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ea349bb6fc8c45bdcea3f5110de0b
+      internalID: 1349558418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_49
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 636
+        width: 118
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a4adfc7a2bf904290a1e7030257159
+      internalID: 593470431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 318
+        width: 110
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac77e098db9414eb9562e1a5c4ec02
+      internalID: 1464933076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 318
+        width: 112
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deecb7fda1cc7f41aff11b924ff8997
+      internalID: -1407650830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_52
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 318
+        width: 113
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0510011308c7cbb478c5845393415d78
+      internalID: -40698542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_53
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 318
+        width: 113
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca08ec7c4b7cb74aa48b36d28808bd1
+      internalID: -402258950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_54
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 318
+        width: 114
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414b0fab69b5dc240ac3c61c6c189829
+      internalID: -180771196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 116
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d2821b9267674ba2395af253a229d
+      internalID: 860301859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 118
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b733cf4269da4ab18a5c2a6bb13ce
+      internalID: -66378705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLG_SnoopDogSheet_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 120
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43b8216f391e294282156ecda7631f8
+      internalID: -639604607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 916176c0ab357924e89d7a20587e7945
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MLG_SnoopDogSheet_43: -688157035
+      MLG_SnoopDogSheet_46: 1171768948
+      MLG_SnoopDogSheet_9: -89163695
+      MLG_SnoopDogSheet_6: 167847863
+      MLG_SnoopDogSheet_37: -833245644
+      MLG_SnoopDogSheet_11: -1806869727
+      MLG_SnoopDogSheet_23: -2055759356
+      MLG_SnoopDogSheet_0: -1201988015
+      MLG_SnoopDogSheet_10: -1285217764
+      MLG_SnoopDogSheet_16: -1267292235
+      MLG_SnoopDogSheet_44: 1859340801
+      MLG_SnoopDogSheet_33: -1997635939
+      MLG_SnoopDogSheet_2: -1890646136
+      MLG_SnoopDogSheet_36: 604059451
+      MLG_SnoopDogSheet_28: -697514164
+      MLG_SnoopDogSheet_49: 593470431
+      MLG_SnoopDogSheet_19: 184623148
+      MLG_SnoopDogSheet_25: 281815021
+      MLG_SnoopDogSheet_39: 184814166
+      MLG_SnoopDogSheet_17: -1570910831
+      MLG_SnoopDogSheet_29: -959618378
+      MLG_SnoopDogSheet_8: 1706560295
+      MLG_SnoopDogSheet_42: -1169210786
+      MLG_SnoopDogSheet_45: 980170953
+      MLG_SnoopDogSheet_12: -1564154451
+      MLG_SnoopDogSheet_30: -1416331739
+      MLG_SnoopDogSheet_55: 860301859
+      MLG_SnoopDogSheet_56: -66378705
+      MLG_SnoopDogSheet_27: -604971515
+      MLG_SnoopDogSheet_35: -1429514443
+      MLG_SnoopDogSheet_47: -195582170
+      MLG_SnoopDogSheet_20: -2118675335
+      MLG_SnoopDogSheet_32: 959952776
+      MLG_SnoopDogSheet_22: 2045930487
+      MLG_SnoopDogSheet_48: 1349558418
+      MLG_SnoopDogSheet_13: -533034866
+      MLG_SnoopDogSheet_50: 1464933076
+      MLG_SnoopDogSheet_1: 1218227530
+      MLG_SnoopDogSheet_3: -619948749
+      MLG_SnoopDogSheet_14: 2078216018
+      MLG_SnoopDogSheet_15: 1830465550
+      MLG_SnoopDogSheet_18: 953867835
+      MLG_SnoopDogSheet_53: -402258950
+      MLG_SnoopDogSheet_34: -1084134368
+      MLG_SnoopDogSheet_5: -1384319321
+      MLG_SnoopDogSheet_38: 1297732789
+      MLG_SnoopDogSheet_57: -639604607
+      MLG_SnoopDogSheet_31: 1558016601
+      MLG_SnoopDogSheet_21: 1494197426
+      MLG_SnoopDogSheet_24: 726527065
+      MLG_SnoopDogSheet_7: 147470523
+      MLG_SnoopDogSheet_40: 1114125315
+      MLG_SnoopDogSheet_41: 1710250745
+      MLG_SnoopDogSheet_54: -180771196
+      MLG_SnoopDogSheet_4: 826126647
+      MLG_SnoopDogSheet_26: -843444450
+      MLG_SnoopDogSheet_51: -1407650830
+      MLG_SnoopDogSheet_52: -40698542
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
