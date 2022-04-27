@@ -22,7 +22,9 @@ public class Destructible : MonoBehaviour
 
         if (resitance <= 0)
         {
-            GetComponent<Dropper>().Drop(transform.position);
+            var dropper = GetComponent<Dropper>();
+            if(dropper)
+                dropper.Drop(transform.position);
             Destroy(gameObject);
         }         
     }
