@@ -818,7 +818,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 240004641}
-  availableEnemies: 10
+  availableEnemies: 20
 --- !u!4 &613688419
 Transform:
   m_ObjectHideFlags: 0
@@ -864,7 +864,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 3
+  spawnTime: 10
 --- !u!4 &654677216
 Transform:
   m_ObjectHideFlags: 0
@@ -1030,7 +1030,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 009f01956be1849488a8492b98b804d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectile: {fileID: 1116994355448252401, guid: 1f2d06764b29f4549a90a73a3ea5dd9f, type: 3}
+  projectile: {fileID: 6250419390483992120, guid: 54d909558e4c32b40a14d025904881cc, type: 3}
   spawnPoint: {fileID: 1905273317}
 --- !u!1 &862799965
 GameObject:
@@ -1050,7 +1050,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!65 &862799966
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1178,7 +1178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 2
+  spawnTime: 10
 --- !u!4 &881535265
 Transform:
   m_ObjectHideFlags: 0
@@ -1229,7 +1229,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 2
+  spawnTime: 10
 --- !u!4 &992874809
 Transform:
   m_ObjectHideFlags: 0
@@ -1720,7 +1720,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 3
+  spawnTime: 10
 --- !u!4 &1539120144
 Transform:
   m_ObjectHideFlags: 0
@@ -1860,7 +1860,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -57.020355, y: -229.00093}
+  m_AnchoredPosition: {x: -57.020355, y: -200}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1766782977
