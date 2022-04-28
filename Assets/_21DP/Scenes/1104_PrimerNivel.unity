@@ -864,7 +864,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 10
+  spawnTime: 12
 --- !u!4 &654677216
 Transform:
   m_ObjectHideFlags: 0
@@ -1178,7 +1178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 10
+  spawnTime: 12
 --- !u!4 &881535265
 Transform:
   m_ObjectHideFlags: 0
@@ -1229,7 +1229,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 10
+  spawnTime: 12
 --- !u!4 &992874809
 Transform:
   m_ObjectHideFlags: 0
@@ -1720,7 +1720,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 3055511099011653196, guid: 85bfc2d9110731d4298a0076f40a5979, type: 3}
-  spawnTime: 10
+  spawnTime: 15
 --- !u!4 &1539120144
 Transform:
   m_ObjectHideFlags: 0
