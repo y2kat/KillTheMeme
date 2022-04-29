@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myType: 0
-  healthModifier: -10
+  healthModifier: -12
 --- !u!114 &6121766581730543763
 MonoBehaviour:
   m_ObjectHideFlags: 0
