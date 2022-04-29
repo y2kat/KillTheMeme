@@ -16,6 +16,8 @@ public class Inventory : MonoBehaviour
     public static void SaveItem(Item item)
     {
         inventory.Add(item);
+        itemCount++;
+        Debug.Log("IC: " + itemCount);
         Debug.Log("Saving item");
     }
 
