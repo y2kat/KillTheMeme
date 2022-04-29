@@ -411,7 +411,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 905267573}
-  availableEnemies: 20
+  availableEnemies: 17
 --- !u!4 &325604659
 Transform:
   m_ObjectHideFlags: 0
