@@ -6,6 +6,8 @@ public class Inventory : MonoBehaviour
 {
     private static List<Item> inventory;
 
+    private static int itemCount = 0;
+
     private void Start()
     {
         inventory = new List<Item>();
@@ -30,5 +32,11 @@ public class Inventory : MonoBehaviour
         }
 
         return false;
+    }
+
+    public static bool HasItems(int neededItems)
+    {
+        if (itemCount != neededItems) return false;
+        else return true;
     }
 }
