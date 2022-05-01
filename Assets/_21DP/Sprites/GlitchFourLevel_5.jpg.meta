@@ -1,0 +1,1710 @@
+fileFormatVersion: 2
+guid: bfad817db6c762d4fa17320fc0dad608
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4710.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa43341606bcf4b926713f96a657ef
+      internalID: 960190349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4710.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1be4208291bf46b1ba1543713fc80
+      internalID: -319195928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_2
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4710.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25229788e357d4f87804ad2cee359a
+      internalID: -831390951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_3
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 4710.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e6d7d1877083a4f8c332941c7d1eef
+      internalID: -939921056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_4
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4710.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1408b8475266b4ca74b0d45c3796e1
+      internalID: 71872037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4348.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f396e738729b4744a3e60687ea509e5
+      internalID: -710698628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4348.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c09f98aa3870724aa6a26024ee545ec
+      internalID: 1650586706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_7
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4348.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094cbc0e033bed448312c7ea452b68e
+      internalID: 1250565045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_8
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 4348.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d43746af6111c7468845c43d1be5e02
+      internalID: -1280590787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_9
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4348.643
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a850d5ab5eeea43bc1b98ef79744c4
+      internalID: 51960928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3986.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869e4af7c183cc42ac43f263493931b
+      internalID: -181079728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3986.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da0c338b8043b4db5e4b7d44768c73
+      internalID: 1514988748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3986.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df74be6e973e5488b9f1e49ae533bf
+      internalID: -1796838398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_13
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3986.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229ce7824f6609844adddc06574f2dd9
+      internalID: -764028577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_14
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3986.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a21cb578111e4aaf8f110bc2fa1c3
+      internalID: 1934293930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3624.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab28e953e758ea45995f2bc9639a5c8
+      internalID: -1828625647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3624.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b2157bd0d3c0418552cb570101991
+      internalID: -1033486069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_17
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3624.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d009fefe799bf4dbc573a658653f4a
+      internalID: 835827127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_18
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3624.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656679b2f80216648baec1e72d10a12c
+      internalID: -594010829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_19
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3624.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7237e5e025b7df94cb2799e309a689e3
+      internalID: 2076039685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3262.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9901da26eb9714246ba3393b917923a8
+      internalID: 786771052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3262.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21a70c122b425044adecfc2beb98f38
+      internalID: -626266434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_22
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3262.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d552461ee0521984b929931f0b8b3b5e
+      internalID: 1409771808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_23
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3262.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f3b00de8c1f4d4d89d70c390a61671
+      internalID: -160381935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_24
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3262.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab0a5ca3814d544c9be360185a1d404
+      internalID: -147612268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2900.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124dfe511e5525489b47992bbf0239d
+      internalID: 1785934636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2900.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313b085417ee77488d46b639e30bfb0
+      internalID: 691886014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_27
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2900.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759f38021e54bc449533ba0083df58c
+      internalID: -6371425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_28
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2900.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170ad59a0aa6c64e82ad1aee4f7a21c
+      internalID: -1269034886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_29
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2900.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e645c6fc94b2d458572aafa78e0332
+      internalID: -731356214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2538.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e7d6cba8f04446b110df9d9c1af95
+      internalID: 1547105046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2538.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cef59da0d29e44884d4b2a4c128f14
+      internalID: 1470054296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_32
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2538.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4c4f4299592f489c8a894721a6799
+      internalID: 1473936425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_33
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2538.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba12852de5a0eb488923e0542160688
+      internalID: -2055276584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_34
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2538.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc66cf41e6f274540b0c99d8199126eb
+      internalID: -353588620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b77d901702f246b337e7e61d87f44
+      internalID: 473622751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_36
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2176.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6d692ebe477a948b6a4197aba3ee20
+      internalID: -1712430407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_37
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2176.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e21b68b53e1c34ab0c91340d3aa55b
+      internalID: -1514080729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_38
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2176.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0565d11e25a49b4688a113e08308904
+      internalID: -786271374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_39
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2176.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b578408ce53bd478c9261344baacd9
+      internalID: -174484979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1814.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c68d05eddf1d54e940664742b46c24
+      internalID: -660858376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1814.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a0ee7c38f93b47a8640cf2ffc4252
+      internalID: 1266357669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_42
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1814.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f054fbe5c0b8c46a831418673bde85
+      internalID: 905277484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_43
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1814.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3528509553f85b44cac8763210b45eed
+      internalID: -1962739009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_44
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1814.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6fa85f44f220748bc61886c839a431
+      internalID: 1985773827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c04c637b59d54f949c8704df92f22
+      internalID: 747686410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_46
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1452.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858aa5caae396154ab3bb497a779b5ba
+      internalID: 1624253418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_47
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1452.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422830769c7cb549bd70ca97431a76c
+      internalID: -1867538391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_48
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1452.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a2efcf79862c409aa956719aa11fe
+      internalID: -1951272522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_49
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1452.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392bef19f7877074a80a375ed07442f9
+      internalID: 878393847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b880bc324636d940812f6e6a2de80c3
+      internalID: 79220854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_51
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1090.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36543dbbb454e9640a5993322b25d22b
+      internalID: -644150658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_52
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1090.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f9824f823ae647bcaf2cccb714187
+      internalID: -2126333923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_53
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1090.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4a8f7fab28de42b2ccd4129ceab5c
+      internalID: 1061816061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_54
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1090.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d60f6f8eb012e41a03a64e070089f7
+      internalID: 636180100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f9f72e520a144f9e9690584eee8c6
+      internalID: 308044039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 728.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ffc50ee5e1f624a8810ea0169879b4
+      internalID: 395876116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_57
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 728.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f512b9ed8854e4a8a7acf18d6c8a0a
+      internalID: 34943749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_58
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 728.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4c63aa4c2e6d4c87c0573ac8fc64c
+      internalID: 2074967365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_59
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 728.6428
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82420b4fd3e33d845bd444c25be1072d
+      internalID: 1840917761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366.64285
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8236103b9a914abc5a59d6559a377
+      internalID: 1706552939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 366.64285
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0fad6711e887e4fbac5d6aeff873ea
+      internalID: 643348250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_62
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 366.64285
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b047c2bcf359b40bdefb61bb1745f5
+      internalID: -1853991234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_63
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 366.64285
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110c06f2f32f14429e55192c357cb30
+      internalID: -1143196405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_64
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 366.64285
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7749a311b488c4bbbaf4ef38d15f3a
+      internalID: -277773879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.642853
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7083f8a4934ba2c4c993fe1f2c29d9fa
+      internalID: -1945880724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_66
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4.642853
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e32da2af61134408f4805e8ada4933
+      internalID: 372770217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_67
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4.642853
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a86f64cc07ae64f9aeab7da148a2df
+      internalID: -1082130746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_68
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 4.642853
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453845e42c6a8fc41bfaeb9e637d0e62
+      internalID: -545387835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlitchFourLevel_5_69
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4.642853
+        width: 639.8
+        height: 362.35715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29baf54b139194428a1d1bf36e6c6e2
+      internalID: 1503812145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c805dc5e74be6c348a4e5c51516a1465
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GlitchFourLevel_5_53: 1061816061
+      GlitchFourLevel_5_54: 636180100
+      GlitchFourLevel_5_18: -594010829
+      GlitchFourLevel_5_23: -160381935
+      GlitchFourLevel_5_14: 1934293930
+      GlitchFourLevel_5_31: 1470054296
+      GlitchFourLevel_5_41: 1266357669
+      GlitchFourLevel_5_1: -319195928
+      GlitchFourLevel_5_48: -1951272522
+      GlitchFourLevel_5_67: -1082130746
+      GlitchFourLevel_5_51: -644150658
+      GlitchFourLevel_5_62: -1853991234
+      GlitchFourLevel_5_3: -939921056
+      GlitchFourLevel_5_20: 786771052
+      GlitchFourLevel_5_37: -1514080729
+      GlitchFourLevel_5_52: -2126333923
+      GlitchFourLevel_5_58: 2074967365
+      GlitchFourLevel_5_68: -545387835
+      GlitchFourLevel_5_13: -764028577
+      GlitchFourLevel_5_63: -1143196405
+      GlitchFourLevel_5_22: 1409771808
+      GlitchFourLevel_5_69: 1503812145
+      GlitchFourLevel_5_65: -1945880724
+      GlitchFourLevel_5_66: 372770217
+      GlitchFourLevel_5_27: -6371425
+      GlitchFourLevel_5_25: 1785934636
+      GlitchFourLevel_5_11: 1514988748
+      GlitchFourLevel_5_60: 1706552939
+      GlitchFourLevel_5_40: -660858376
+      GlitchFourLevel_5_9: 51960928
+      GlitchFourLevel_5_43: -1962739009
+      GlitchFourLevel_5_45: 747686410
+      GlitchFourLevel_5_59: 1840917761
+      GlitchFourLevel_5_28: -1269034886
+      GlitchFourLevel_5_55: 308044039
+      GlitchFourLevel_5_46: 1624253418
+      GlitchFourLevel_5_26: 691886014
+      GlitchFourLevel_5_35: 473622751
+      GlitchFourLevel_5_6: 1650586706
+      GlitchFourLevel_5_56: 395876116
+      GlitchFourLevel_5_16: -1033486069
+      GlitchFourLevel_5_42: 905277484
+      GlitchFourLevel_5_10: -181079728
+      GlitchFourLevel_5_19: 2076039685
+      GlitchFourLevel_5_36: -1712430407
+      GlitchFourLevel_5_38: -786271374
+      GlitchFourLevel_5_49: 878393847
+      GlitchFourLevel_5_33: -2055276584
+      GlitchFourLevel_5_47: -1867538391
+      GlitchFourLevel_5_15: -1828625647
+      GlitchFourLevel_5_21: -626266434
+      GlitchFourLevel_5_4: 71872037
+      GlitchFourLevel_5_61: 643348250
+      GlitchFourLevel_5_57: 34943749
+      GlitchFourLevel_5_2: -831390951
+      GlitchFourLevel_5_7: 1250565045
+      GlitchFourLevel_5_24: -147612268
+      GlitchFourLevel_5_30: 1547105046
+      GlitchFourLevel_5_32: 1473936425
+      GlitchFourLevel_5_50: 79220854
+      GlitchFourLevel_5_64: -277773879
+      GlitchFourLevel_5_5: -710698628
+      GlitchFourLevel_5_34: -353588620
+      GlitchFourLevel_5_12: -1796838398
+      GlitchFourLevel_5_17: 835827127
+      GlitchFourLevel_5_44: 1985773827
+      GlitchFourLevel_5_8: -1280590787
+      GlitchFourLevel_5_39: -174484979
+      GlitchFourLevel_5_29: -731356214
+      GlitchFourLevel_5_0: 960190349
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

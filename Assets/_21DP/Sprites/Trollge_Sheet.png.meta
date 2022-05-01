@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -36,13 +36,13 @@ TextureImporter:
     filterMode: 1
     aniso: 2
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,9 +51,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -124,20 +124,1914 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Trollge_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8320.941
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2ea176052e1f04c92b90c5965b81a1
+      internalID: -2011028892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 8320.941
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450f164c7d9bc54c91ed67ee5803652
+      internalID: 634834008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 8320.941
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96722af205cbae04d802ba2956b62df0
+      internalID: -1739313095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 8320.941
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d6bddb04ce5484484f8aeba5385c8e
+      internalID: -788615434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 8320.941
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715e0a3fd7e1afa4a870ec0d45829061
+      internalID: 1154268176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7800.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b81e9bfe0776b04aa9b7d216bf1ce9a
+      internalID: 178508057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7800.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418432e33cdc8b4aabd74beb0fa08ce
+      internalID: 2040417910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 7800.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5176dbafd0b54eb01ae7fb7bc296f
+      internalID: -1503289378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 7800.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f82e0fdbf6b724ab13bb7777ff9918
+      internalID: -1721531335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 7800.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462eedea43c0919429f10a5339361c7a
+      internalID: -1768767207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7280.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829ad048130e6dd48a0d6ae8a1ac0a36
+      internalID: -1259455757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7280.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d7978d36c91e840833612cd10f8bcc
+      internalID: 1888482415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 7280.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94025e6d49176754fb0cd1bc67aa1556
+      internalID: -1077654884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 7280.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c5be723698de4aa2f2d57605de453
+      internalID: 983484145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 7280.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9da3f124bb2743b4eb046d6409712
+      internalID: -1004625544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6760.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd636a2e57732a04ea2e8641471d3c35
+      internalID: 1605878196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6760.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40805cf2d6093d2419ef0bb81af0d352
+      internalID: -1426058203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 6760.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4d8bda567c9b468c7ebc4442a5380
+      internalID: 983597008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 6760.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490f460f218e8fe4ba47492026b4379c
+      internalID: -300955565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 6760.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f2c4453c2e604f9b94b8292a41284
+      internalID: -1459591956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6240.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db330313b2b3a14e957ed5d8e3dd00d
+      internalID: 529661429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6240.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149213fbf6ad4d4ebd7787e9717864e
+      internalID: -690191481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 6240.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40e0a6fadf9dd4a91ebc330d826dcd
+      internalID: 705030796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 6240.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf96900dbdc20546b50dbd0450a017b
+      internalID: 1343971715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 6240.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d63762930c5c4dbbb92650f6021de
+      internalID: -1062561143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5720.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11a02ad6d65741409301eba986847dd
+      internalID: 2072982025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5720.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4113cdc7fd2054bac86724bcf777c0
+      internalID: 217109783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 5720.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857c358c0fda9d409e1a4398b549c9d
+      internalID: 238021624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 5720.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25da48502693c04ba155053890b3781
+      internalID: 591982821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 5720.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3a11b6e16ad4e4980293d888c24878
+      internalID: 530725082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578d408f13410d498466d13a1ee7445
+      internalID: 1397162640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5200.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02aafdf41c9348429f1eced9336fe15
+      internalID: 2037319836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 5200.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ecb9dcd9b3924db067b5fbcbb7ef4
+      internalID: -1085484760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 5200.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3abfe34edc8d0d47b4df9f61f5eb5fa
+      internalID: 864471895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 5200.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f95517c56b57740b8f8a8747811fe3
+      internalID: -885399965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4680.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2499507699853643a663dc1c97a468e
+      internalID: 937929745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4680.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c1f4c19a231d43aaeb52f0c327ecd
+      internalID: 2038245121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4680.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caaa5436a8ee3144803372ef39238db
+      internalID: 1912255464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 4680.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24125713b7df3d4f8eec4cde8520052
+      internalID: -612775017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4680.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61909cbc8dcda64db67196fe9f06c70
+      internalID: -384730542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747812ddb6a3da469d28ea574cc8f31
+      internalID: 982399666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4160.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2748b13a9f513e4c92937d925da59e9
+      internalID: 1861649463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4160.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c5151b20d891c46b6a4788b9225b0f
+      internalID: -1193242104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 4160.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c248b833fb05441a3909fec5647615
+      internalID: -393853046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 4160.9414
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c5252048f0ff40a2e477c6ccedf93
+      internalID: -270225019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3640.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6293ce2c14fd0f43a53c6f0e4ed6623
+      internalID: 609566148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3640.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70668ef38ec41974eab48ab5078d6d65
+      internalID: -2102333803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3640.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41623aa4a914f5b4cb16e5e39b40e304
+      internalID: -118418229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3640.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9401c49b7030324f85e494561bf018e
+      internalID: 1181058244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3640.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceaeb4a1ee9f8f4394a851b4d9f1856
+      internalID: 533532033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d16a42ff312a499e4e3a3285e5995
+      internalID: -326514306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3120.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04a87f6c616d6a4cb715e7e2f246e42
+      internalID: 939962704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3120.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b159619cd0f33342b9081707afb1ff4
+      internalID: -1458139468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3120.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c780405b34b97458639378e38b3b59
+      internalID: -315632664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3120.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fea87bf195d14428cbf605b160883f
+      internalID: -1511745692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab20b62151139d4284499bdefc641dc
+      internalID: -765056116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2600.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22c792a9e119b408fb206e3e9d9758
+      internalID: -2081362842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2600.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ad394dcb649744bf46afbf5a03343
+      internalID: -1152758450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2600.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f4515f92b78845a20d4d6ae914354
+      internalID: 1591412656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2600.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133046830e5899b4a9fe177e7a8e35e8
+      internalID: -1124140768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c84600c3028a46904ad6b5a0e2e8f
+      internalID: -2015308978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2080.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518cec685b2db634aad85a1719ac5e09
+      internalID: 2085993975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2080.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2568f3fa319f23241b9793a5231b2fff
+      internalID: 1335933174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2080.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22a3d6e9d58b54aa296a507452a846
+      internalID: 377728900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2080.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d39a93b8367241a913fb8300da85e
+      internalID: -484061787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5278b038af552734984c5283efc4bf84
+      internalID: -1579074528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1560.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe787bbcb8f2d468a35329fa786980
+      internalID: 1160767876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1560.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b815e768423dc4aaf0edce9f3b5c36
+      internalID: 661375759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1560.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6acd5cb74659479940be4dd5ba3ef
+      internalID: -1678243528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1560.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9597ca6003e76640a18da5e57218183
+      internalID: 1719972451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5709ecaa58a7d4bb630d2b9657c4bf
+      internalID: -1099817270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1040.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794aa7f8ed8d1c489f5b9d64a842770
+      internalID: -1821511655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1040.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b201ec45c45b1194184b4b8fd02bce02
+      internalID: -923418429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1040.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d32b09a224b3e540a93aca53b941dce
+      internalID: 294578360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1040.9412
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581accfccd7a744439aac34fe85edff3
+      internalID: -501154196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520.94116
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57178c5ddceba4a803cb3c1615c0ec
+      internalID: -1651151432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 520.94116
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa5390752e8bcb4caba0d4efc0a9d76
+      internalID: -966071404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 520.94116
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e79418339809a846ba335daec3a6c75
+      internalID: 1774172226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 520.94116
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92194248d8ae83145aa51209e029b780
+      internalID: -1255830921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 520.94116
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f3109d8a21a042ad3e57c714f9f89
+      internalID: -740355879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9411621
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698cb0c0a0e8ec24fbbc152663284155
+      internalID: 2002352457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0.9411621
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1154509e09f724299f63746812c9f7
+      internalID: 2018459956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0.9411621
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642c5c44af908bd4ba856432137bb6d6
+      internalID: 152414130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0.9411621
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a38a0f8a124e41b34fa2209bc288f
+      internalID: 7943873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trollge_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 0.9411621
+        width: 639.8
+        height: 520.05884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1817f4390773584583fb59c50788d85
+      internalID: 460642330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4c6cb50aa870cd940bbc3c546179b265
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trollge_Sheet_81: 2018459956
+      Trollge_Sheet_24: -1062561143
+      Trollge_Sheet_41: 1861649463
+      Trollge_Sheet_11: 1888482415
+      Trollge_Sheet_44: -270225019
+      Trollge_Sheet_84: 460642330
+      Trollge_Sheet_39: -384730542
+      Trollge_Sheet_23: 1343971715
+      Trollge_Sheet_2: -1739313095
+      Trollge_Sheet_78: -1255830921
+      Trollge_Sheet_29: 530725082
+      Trollge_Sheet_1: 634834008
+      Trollge_Sheet_28: 591982821
+      Trollge_Sheet_55: -765056116
+      Trollge_Sheet_82: 152414130
+      Trollge_Sheet_83: 7943873
+      Trollge_Sheet_38: -612775017
+      Trollge_Sheet_73: 294578360
+      Trollge_Sheet_77: 1774172226
+      Trollge_Sheet_34: -885399965
+      Trollge_Sheet_64: -484061787
+      Trollge_Sheet_0: -2011028892
+      Trollge_Sheet_65: -1579074528
+      Trollge_Sheet_75: -1651151432
+      Trollge_Sheet_17: 983597008
+      Trollge_Sheet_40: 982399666
+      Trollge_Sheet_70: -1099817270
+      Trollge_Sheet_15: 1605878196
+      Trollge_Sheet_49: 533532033
+      Trollge_Sheet_20: 529661429
+      Trollge_Sheet_5: 178508057
+      Trollge_Sheet_35: 937929745
+      Trollge_Sheet_53: -315632664
+      Trollge_Sheet_22: 705030796
+      Trollge_Sheet_10: -1259455757
+      Trollge_Sheet_36: 2038245121
+      Trollge_Sheet_14: -1004625544
+      Trollge_Sheet_7: -1503289378
+      Trollge_Sheet_51: 939962704
+      Trollge_Sheet_27: 238021624
+      Trollge_Sheet_48: 1181058244
+      Trollge_Sheet_74: -501154196
+      Trollge_Sheet_32: -1085484760
+      Trollge_Sheet_60: -2015308978
+      Trollge_Sheet_58: 1591412656
+      Trollge_Sheet_80: 2002352457
+      Trollge_Sheet_31: 2037319836
+      Trollge_Sheet_66: 1160767876
+      Trollge_Sheet_3: -788615434
+      Trollge_Sheet_25: 2072982025
+      Trollge_Sheet_18: -300955565
+      Trollge_Sheet_71: -1821511655
+      Trollge_Sheet_62: 1335933174
+      Trollge_Sheet_16: -1426058203
+      Trollge_Sheet_21: -690191481
+      Trollge_Sheet_46: -2102333803
+      Trollge_Sheet_63: 377728900
+      Trollge_Sheet_26: 217109783
+      Trollge_Sheet_19: -1459591956
+      Trollge_Sheet_50: -326514306
+      Trollge_Sheet_42: -1193242104
+      Trollge_Sheet_4: 1154268176
+      Trollge_Sheet_52: -1458139468
+      Trollge_Sheet_45: 609566148
+      Trollge_Sheet_69: 1719972451
+      Trollge_Sheet_6: 2040417910
+      Trollge_Sheet_56: -2081362842
+      Trollge_Sheet_43: -393853046
+      Trollge_Sheet_8: -1721531335
+      Trollge_Sheet_33: 864471895
+      Trollge_Sheet_59: -1124140768
+      Trollge_Sheet_68: -1678243528
+      Trollge_Sheet_67: 661375759
+      Trollge_Sheet_72: -923418429
+      Trollge_Sheet_37: 1912255464
+      Trollge_Sheet_54: -1511745692
+      Trollge_Sheet_13: 983484145
+      Trollge_Sheet_79: -740355879
+      Trollge_Sheet_47: -118418229
+      Trollge_Sheet_76: -966071404
+      Trollge_Sheet_12: -1077654884
+      Trollge_Sheet_9: -1768767207
+      Trollge_Sheet_30: 1397162640
+      Trollge_Sheet_57: -1152758450
+      Trollge_Sheet_61: 2085993975
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
