@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/_21DP/Scenes/1003_TitleScreen.unity
     guid: d2d40960c6af8e7409236d5693ebbd02
   - enabled: 1
-    path: Assets/_21DP/Scenes/1703_BaseLevel.unity
-    guid: 3399917077a1fc447a33cdaf9878b540
+    path: Assets/_21DP/Scenes/1104_PrimerNivel.unity
+    guid: 70e16c68295067940bb214d86f2fa4d1
+  - enabled: 1
+    path: Assets/_21DP/Scenes/2704_SegundoNivel.unity
+    guid: ed87547c65eff0541a2d8dacb05bafea
+  - enabled: 1
+    path: Assets/_21DP/Scenes/2804_TercerNivel.unity
+    guid: 59351b96b3d58e5449d408195d8fd78b
+  - enabled: 1
+    path: Assets/_21DP/Scenes/3004_CuartoNivel.unity
+    guid: 6f2aaa66991045a40ace1249bbf4f90f
   m_configObjects: {}
