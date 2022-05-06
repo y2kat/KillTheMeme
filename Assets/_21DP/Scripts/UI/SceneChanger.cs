@@ -6,6 +6,14 @@ using UnityEngine.SceneManagement;
 public class SceneChanger : MonoBehaviour
 {
     public Animator fadeboxAnimator;
+    public static int lastLevelIndex = 0;
+
+
+    public void RestartLevel()
+    {
+        GoToScene(lastLevelIndex);
+
+    }
 
     public void GoToScene(int index)
     {

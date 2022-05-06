@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 public class HealthSystem : MonoBehaviour
 {
     [SerializeField]
@@ -34,9 +34,13 @@ public class HealthSystem : MonoBehaviour
 
     void Update()
     {
+        
         if (hp <= 0)
         {
-            Debug.Log("I am dead!");
+            SceneChanger.lastLevelIndex = SceneManager.GetActiveScene().buildIndex;
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+            SceneManager.LoadScene("EndScreen");
         }
     }
 }

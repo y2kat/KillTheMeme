@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 4409419977081093573}
   - component: {fileID: 8651847457674683501}
   - component: {fileID: 7734701964606072078}
-  - component: {fileID: 1689635945799481343}
+  - component: {fileID: 2755212563001066149}
   m_Layer: 0
   m_Name: Trollge 3
   m_TagString: Untagged
@@ -197,8 +197,8 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 6.4199996, y: 6.2499995, z: 2}
   m_Center: {x: 0, y: 0, z: -0.01}
---- !u!65 &1689635945799481343
-BoxCollider:
+--- !u!135 &2755212563001066149
+SphereCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -208,5 +208,5 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 6.4199996, y: 6.2499995, z: 2}
-  m_Center: {x: 0, y: 0, z: -0.01}
+  m_Radius: 2.7
+  m_Center: {x: 0, y: 0, z: 0}

@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_21DP/Scenes/3004_CuartoNivel.unity
     guid: 6f2aaa66991045a40ace1249bbf4f90f
+  - enabled: 1
+    path: Assets/_21DP/Scenes/0505_FinalScene.unity
+    guid: e188abb2e43495243ba7dfc460b67968
+  - enabled: 1
+    path: Assets/_21DP/Scenes/EndScreen.unity
+    guid: 47e93adc74a7f1842b0c5081e0d0bcf9
   m_configObjects: {}

@@ -16,8 +16,8 @@ GameObject:
   - component: {fileID: 3055511099011653186}
   - component: {fileID: 8273171191991026805}
   - component: {fileID: 6121766581730543763}
-  - component: {fileID: 5692861276885107741}
   - component: {fileID: 557772303291594022}
+  - component: {fileID: 5296004023265467984}
   m_Layer: 0
   m_Name: Trollface
   m_TagString: Untagged
@@ -138,7 +138,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
-  m_StoppingDistance: 2
+  m_StoppingDistance: 2.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myType: 0
-  healthModifier: -12
+  healthModifier: -10
 --- !u!114 &6121766581730543763
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -184,19 +184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 247d82e6b3a71a74b871985a7a5134ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &5692861276885107741
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3055511099011653196}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.23, y: 3.8900006, z: 2}
-  m_Center: {x: 0, y: 0, z: -0.01}
 --- !u!65 &557772303291594022
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -210,3 +197,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.23, y: 3.8900006, z: 2}
   m_Center: {x: 0, y: 0, z: 0.01}
+--- !u!135 &5296004023265467984
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3055511099011653196}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.9450003
+  m_Center: {x: 0, y: 0, z: 0}

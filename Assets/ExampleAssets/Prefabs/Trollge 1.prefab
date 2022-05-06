@@ -16,8 +16,8 @@ GameObject:
   - component: {fileID: 5703439364435761695}
   - component: {fileID: 7686435937489476551}
   - component: {fileID: 4645650763176344691}
-  - component: {fileID: 6241805607749956950}
   - component: {fileID: 3697947785041644439}
+  - component: {fileID: 2355644370017412893}
   m_Layer: 0
   m_Name: Trollge 1
   m_TagString: Untagged
@@ -184,19 +184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 247d82e6b3a71a74b871985a7a5134ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!65 &6241805607749956950
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8910882556690193264}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 6.23, y: 7.8, z: 2}
-  m_Center: {x: 0, y: 0, z: -0.01}
 --- !u!65 &3697947785041644439
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -210,3 +197,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 6.23, y: 7.8, z: 2}
   m_Center: {x: 0, y: 0, z: -0.02}
+--- !u!135 &2355644370017412893
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8910882556690193264}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 2.15
+  m_Center: {x: 0, y: 0, z: 0}

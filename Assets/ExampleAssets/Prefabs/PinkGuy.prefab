@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: -3668052613634384205}
   - component: {fileID: -4042510862121282851}
   - component: {fileID: -5735055225510079635}
-  - component: {fileID: 8670586347006813679}
+  - component: {fileID: 7000651527131809549}
   m_Layer: 0
   m_Name: PinkGuy
   m_TagString: Untagged
@@ -197,8 +197,8 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.65, y: 1.8899999, z: 0.8}
   m_Center: {x: 0, y: 0, z: -0.15}
---- !u!65 &8670586347006813679
-BoxCollider:
+--- !u!135 &7000651527131809549
+SphereCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -208,5 +208,5 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.65, y: 1.8899999, z: 0.8}
-  m_Center: {x: 0, y: 0, z: -0.15}
+  m_Radius: 0.9
+  m_Center: {x: 0, y: 0, z: 0}
